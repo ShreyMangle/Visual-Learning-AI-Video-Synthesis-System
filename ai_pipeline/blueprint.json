@@ -1,0 +1,35 @@
+[
+  {
+    "scene": 1,
+    "elements": [
+      "boxes",
+      "arrows",
+      "text"
+    ],
+    "animation": "fade_in",
+    "duration": 4,
+    "narration": "Multiple users send requests at the same time."
+  },
+  {
+    "scene": 2,
+    "elements": [
+      "boxes",
+      "arrows",
+      "text"
+    ],
+    "animation": "fade_in",
+    "duration": 4,
+    "narration": "A single server cannot handle all requests."
+  },
+  {
+    "scene": 3,
+    "elements": [
+      "boxes",
+      "arrows",
+      "text"
+    ],
+    "animation": "fade_in",
+    "duration": 4,
+    "narration": "A load balancer distributes traffic evenly."
+  }
+]

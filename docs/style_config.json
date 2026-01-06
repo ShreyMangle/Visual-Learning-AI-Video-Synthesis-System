@@ -1,0 +1,10 @@
+{
+  "visual_style": "2D_explainer",
+  "use_boxes": true,
+  "use_arrows": true,
+  "use_characters": false,
+  "use_whiteboard": false,
+  "text_animation": "write",
+  "transition": "fade",
+  "color_palette": "minimal"
+}
